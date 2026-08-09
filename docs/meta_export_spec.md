@@ -56,7 +56,7 @@ Quality Ranking, Engagement Rate Ranking, Conversion Rate Ranking
    name — a Meta export quirk), Ad Set Budget Type, Objective
 4. Export as .xlsx
 
-## Known account-specific notes (Massage Heights)
+## Known account-specific notes
 
 - Budget type is **Lifetime**, and campaigns are rebuilt fresh each cycle
   (naming convention: `[N]. [Month-Month 'YY] | [description]`) — so the
